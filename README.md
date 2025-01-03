@@ -2,7 +2,7 @@
 - 👀 I’m interested in react, nestJs, typescript and DDD
 - 🌱 I’m currently learning DDD and nestJs
 - 💞️ I love work with development
-- 📫 How to reach me joaovictorolvr@icloud.com or comercial@softtor.com.br
+- 📫 How to reach me joaovictorolvr@icloud.com or joao.oliveira@softtor.com.br
 - ⚡ Fun fact: I love play videogames
 
 <!---
